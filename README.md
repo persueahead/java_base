@@ -1,2 +1,2 @@
 # java_base
-base user of java
+base user of vue
